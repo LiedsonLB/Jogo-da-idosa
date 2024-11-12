@@ -69,4 +69,4 @@ Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato atra
 
 ## Releases
 
-- Release v1.0 - [Primeira entrega - Em andamento](Em andamento)
+- Release v1.0✅ - [Release v1.0.0](https://github.com/LiedsonLB/Jogo-da-idosa/releases/tag/v1.0.0)
