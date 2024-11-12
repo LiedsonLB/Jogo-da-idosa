@@ -2,16 +2,15 @@
 
 Este é um jogo simples de **Jogo da Velha** desenvolvido em Flutter, onde dois jogadores podem jogar entre si ou enfrentar a **CPU**. O jogo fornece uma interface amigável e fácil de usar, com indicação clara de vitória ou empate.
 
-[//]: # (## Imagens)
+## Imagens
 
-[//]: # ()
-[//]: # (<div style="display: flex; flex-wrap:wrap; gap: 10px; justify-content: center">)
 
-[//]: # (  <img src="./img/home.png" alt="home_jogo_da_velha">)
-
-[//]: # (  <img src="./img/result.png" alt="result_jogo_da_velha">)
-
-[//]: # (</div>)
+<div style="display: flex; gap: 10px; justify-content: center">
+  <img src="./img/menu_game.jpeg" alt="menu principal do jogo" height="300">
+  <img src="./img/round_game.jpeg" alt="partida de jogadores" height="300">
+  <img src="./img/winner_modal.jpeg" alt="modal de vencedor" height="300">
+  <img src="./img/history_game.jpeg" alt="historico de jogos" height="300">
+</div>
 
 ## Funcionalidades
 
@@ -24,9 +23,7 @@ Este é um jogo simples de **Jogo da Velha** desenvolvido em Flutter, onde dois 
 
 <div style="display: flex; justify-content: center ; width: 100%">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" height="30" width="40"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" height="30" width="40"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="30" width="40"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="30" width="40"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" height="30" width="40">
 </div>
 
 ## Estrutura do Projeto
